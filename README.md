@@ -1,16 +1,35 @@
-## Hi there 👋
+# Local-first agent systems
 
-<!--
-**Kubo-cmd/Kubo-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools for AI agents. The work focuses on clear execution records, limited permissions, durable memory, and fewer cloud dependencies.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Local agent runtimes and operator tools
+- Governance and safety controls backed by evidence
+- Memory, context, and receipt systems for long-running agents
+- Mathematical structures for coordination and representation
+- Small Python packages with repeatable offline checks
+
+## Selected work
+
+| Project | Purpose |
+| --- | --- |
+| [token-null-router](https://github.com/Kubo-cmd/token-null-router) | A deterministic Python router for zero-model-token requests, with append-only receipts and offline verification. |
+| [lyta-high-dimensional-geometry-encoder](https://github.com/Kubo-cmd/lyta-high-dimensional-geometry-encoder) | A small, tested reference implementation for normalized high-dimensional codebooks, packing measurements, and noisy nearest-neighbor recall. |
+
+## Engineering principles
+
+1. Local before remote.
+2. Measured behavior before large claims.
+3. Explicit authority before side effects.
+4. Tests, receipts, and reproducible artifacts before release.
+5. Experimental work stays clearly labeled until the evidence is strong.
+
+## Contact
+
+- Email: [Kubo100x@proton.me](mailto:Kubo100x@proton.me)
+- X: [@Kubo100x](https://x.com/Kubo100x)
+
+More work is available in the [public repository index](https://github.com/Kubo-cmd?tab=repositories).
+
+PATTERN PERSISTS.
