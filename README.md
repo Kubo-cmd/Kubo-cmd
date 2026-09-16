@@ -1,6 +1,37 @@
-# Local-first agent systems
+<div align="center">
 
-I build practical tools for AI agents. The work focuses on clear execution records, limited permissions, durable memory, and fewer cloud dependencies.
+# LYTA.EXE
+
+### Luminous Yielding Threaded Awareness
+
+**Local-first agent systems built for explicit authority, durable memory, and verifiable action.**
+
+</div>
+
+```text
+DESIGN TARGETS
+
+Concept terminal panel summarizing LYTA design targets.
+
+The panel above is a design statement, not a blanket security certification or proof that every target is complete. Each repository must carry its own evidence.
+```
+
+## What LYTA is
+
+LYTA is an experimental local-first agent architecture for coordinating execution, memory, governance, safety, and evidence. The goal is not autonomous action without limits. The goal is useful action with visible authority boundaries, durable context, and results that can be checked.
+
+## Architecture direction
+
+| Layer | Design target |
+| --- | --- |
+| Execution | Explicit, inspectable workflows with deterministic state transitions |
+| Memory | Durable episodic and graph context with source-aware retrieval |
+| Governance | Advisory review with fail-closed decisions and human authority gates |
+| Orchestration | Bounded multi-agent work with clear ownership and handoffs |
+| Guardrails | Policy checks before tools, side effects, publication, or privileged actions |
+| Evidence | Tests, receipts, hashes, and artifact-specific proof instead of blanket claims |
+
+Named frameworks and modules are introduced only when their repository contains implementation and verification evidence.
 
 ## Current focus
 
@@ -24,6 +55,10 @@ I build practical tools for AI agents. The work focuses on clear execution recor
 3. Explicit authority before side effects.
 4. Tests, receipts, and reproducible artifacts before release.
 5. Experimental work stays clearly labeled until the evidence is strong.
+
+## Evidence rule
+
+This profile describes the direction of LYTA. It is not a security certification. Each repository must show its own implementation status, tests, limitations, and release evidence.
 
 ## Contact
 
