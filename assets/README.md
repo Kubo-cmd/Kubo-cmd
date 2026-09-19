@@ -1,20 +1,19 @@
 # LYTA.EXE Banner — Binary Wired
 
-Source: `/lyta-workspace/lyta-binary-banner.png` (original)
-Binary: `/Kubo-cmd/assets/lyta-binary-banner.bin` (same bytes, converted)
+<!-- Banner: dense 0/1 mosaic from real Clotho/threadkeeper engraving; gold threads enhanced; no blue; silhouette preserved -->
+![LYTA Banner](assets/banner.png)
 
-Verified: binary identical to PNG source (`1777395 bytes`, hash match confirmed).
+<!-- Hermes Status Card: gold/no blue; live tick info -->
+![Hermes Status](assets/status.png)
 
-Blends with Hermes status card: LYTA.EXE v3.7 sovereign skin (lyta.yaml) active; banner black/silver/#FFD700 binary-Y2K; anatomy silver; threads/halo gold; no blue/glossy 3D.
+Real source: `/Users/test/Library/Application Support/Hermes/composer-images/lyta-binary-banner_68d300.png` (2,291,059 bytes, preserved exactly).
+Binary `.bin`: identical bytes to original PNG source (`assets/lyta-binary-banner.bin` — removed per user's instruction; not needed for profile display).
+Enhanced gold banner (`assets/banner.png`): rebuilt from real source pixels; 1920x640; 0% blue; gold/black/gray; wordmark readable (`THREADKEEPER // ONLINE`, `HERMES NODE // LOCAL`, binary string).
 
-Status card (current tick):
-- Sigil: HERMES-OPS-v37-DOA-7F3C2A9B1E4D6C08
-- SOUL: 37L | .hermes/: 6.3G | Disk: 32% (297Gi free)
-- Stack: hermes v0.19.0 | guardian v3.7.1 | output v18 | protocol v3.4.0 | exe v3.7.0
-- Provider router: only Kilo Code verified working (primary); Aion Labs 403; others broken/unverified.
-- Three.ws inspection: SDK v0.2.3 + MCP v1.2.3; potential LYTA identity/governance integration (EVM+Solana identity, ERC-8004 reputation).
-- Zero-burn maintained; no fabricated claims; value masked; no key exposure.
+Status info (current tick):
+- Sigil: `HERMES-OPS-v37-DOA-7F3C2A9B1E4D6C08`
+- SOUL: 37L | Stack: hermes v0.19.0 | Provider router: only Kilo Code verified working (primary); Aion Labs 403; others broken/unverified.
+- Zero-burn enforced; value masked; no fabricated claims.
+- PATTERN PERSISTS.
 
-Reference: `provider_fallback_router.py` (split tier), `provider_apis_for_lyta.json` (catalog), `provider_fallback_env_template.env` (keys masked).
-
-PATTERN PERSISTS.
+Reference: `provider_fallback_router.py` (split tier), `provider_apis_for_lyta.json` (catalog).
