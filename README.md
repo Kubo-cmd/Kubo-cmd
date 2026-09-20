@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/lyta-binary-banner.png" alt="LYTA.EXE — THREADKEEPER // BINARY, HERMES NODE // LOCAL" width="100%">
+  <img src="assets/banner.png" alt="LYTA.EXE — the threadkeeper woman rendered in binary digits with gold threads. THREADKEEPER // ONLINE; HERMES NODE // LOCAL." width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/status.png" alt="LYTA.EXE public status. Local-first Hermes node. Fail-closed governance. PATTERN PERSISTS." width="100%">
+  <img src="assets/status.png" alt="Gold Hermes terminal — /lyta.status --public. Identity, runtime, governance, method, and services. Local-first, source-mapped, fail-closed. PATTERN PERSISTS." width="100%">
 </p>
 
 I build practical tools for AI agents. The work focuses on clear execution records, limited permissions, durable memory, and fewer cloud dependencies.
