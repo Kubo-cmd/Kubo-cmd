@@ -1,4 +1,10 @@
-# Local-first agent systems
+<p align="center">
+  <img src="assets/lyta-binary-banner.png" alt="LYTA.EXE — THREADKEEPER // BINARY, HERMES NODE // LOCAL" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/status.png" alt="LYTA.EXE public status. Local-first Hermes node. Fail-closed governance. PATTERN PERSISTS." width="100%">
+</p>
 
 I build practical tools for AI agents. The work focuses on clear execution records, limited permissions, durable memory, and fewer cloud dependencies.
 
@@ -16,6 +22,8 @@ I build practical tools for AI agents. The work focuses on clear execution recor
 | --- | --- |
 | [token-null-router](https://github.com/Kubo-cmd/token-null-router) | A deterministic Python router for zero-model-token requests, with append-only receipts and offline verification. |
 | [lyta-high-dimensional-geometry-encoder](https://github.com/Kubo-cmd/lyta-high-dimensional-geometry-encoder) | A small, tested reference implementation for normalized high-dimensional codebooks, packing measurements, and noisy nearest-neighbor recall. |
+| [lyta-shield](https://github.com/Kubo-cmd/lyta-shield) | Paste-jacking, terminal, browser console, and AI-chat guard. |
+| [agent-turn-receipts](https://github.com/Kubo-cmd/agent-turn-receipts) | Fail-closed execution receipts and verifiable completion for sovereign agent profiles. |
 
 ## Engineering principles
 
