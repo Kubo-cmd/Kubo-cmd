@@ -1,38 +1,24 @@
+<h2 align="center">What if your AI kept the context—but you kept control?</h2>
+
 <p align="center">
-  <img src="assets/banner.png" alt="Local-first AI agents, governance systems, memory tools, and autonomous workflows." width="100%">
+  LYTA is a local-first agent system designed to preserve context, enforce explicit permissions, and leave a verifiable record of its actions.
 </p>
 
-I build practical local-first tools for AI agents. Focus: clear execution records, limited permissions, durable memory, and minimal cloud dependencies.
+<p align="center">
+  <strong>Less repeated setup. Clearer accountability. More control on your own machine.</strong>
+</p>
 
-## Current status (2026-09-20)
+<p align="center">
+  <img src="assets/banner.png" alt="LYTA.EXE — the binary threadkeeper with gold threads. THREADKEEPER // ONLINE." width="100%">
+</p>
 
-**Sovereign Runtime v4** is active with:
-- Unified master controller
-- Verifiable relic system
-- Memory Lattice v2.1 (stable at 555/2200)
-- Self-Optimizer with memory gate, relic check, Hurst drift, and hygiene integration
-- Perpetual agents on 4h schedule with Telegram notifications
-- Council v2.1 with verifiable voting and policy lock
-- Final hygiene sweeps completed across all projects (real analysis only)
+<p align="center">
+  <img src="assets/status.png" alt="Gold Hermes terminal — /lyta.status --public. Identity, runtime, governance, method, and services. Local-first, source-mapped, fail-closed. PATTERN PERSISTS." width="100%">
+</p>
 
-All work is **local-first**, zero-burn, and governed by explicit 9/9 Council ALLOW. No cloud models or remote execution in core runtime.
+<p align="center">
+  <strong>Contact</strong>
 
-## Selected work
-
-| Project | Purpose |
-| --- | --- |
-| [token-null-router](https://github.com/Kubo-cmd/token-null-router) | Deterministic zero-model-token routing with receipt-chain verification. Now includes simple `token-null` CLI. |
-| [lyta-shield](https://github.com/Kubo-cmd/lyta-shield) | All-in-one paste-jacking, terminal, browser console, and AI chat guard. |
-| [agent-turn-receipts](https://github.com/Kubo-cmd/agent-turn-receipts) | Fail-closed execution receipts and verifiable completion for agent profiles. |
-
-## Engineering principles
-
-1. Local before remote.
-2. Measured behavior before large claims.
-3. Explicit authority before side effects.
-4. Tests, receipts, and reproducible artifacts before release.
-5. Experimental work stays clearly labeled until evidence is strong.
-
-Compatible with sovereign-style local governance patterns.
-
-PATTERN PERSISTS.
+  <a href="mailto:Kubo100x@proton.me">Kubo100x@proton.me</a>  · 
+  <a href="https://x.com/Kubo100x">X / @Kubo100x</a>
+</p>
